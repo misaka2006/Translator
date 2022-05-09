@@ -1,0 +1,13 @@
+D:\easyx\Translator\Translator\bin\Release\Translator.exe.config
+D:\easyx\Translator\Translator\bin\Release\Translator.exe
+D:\easyx\Translator\Translator\bin\Release\Translator.pdb
+D:\easyx\Translator\Translator\bin\Release\Newtonsoft.Json.dll
+D:\easyx\Translator\Translator\bin\Release\Newtonsoft.Json.xml
+D:\easyx\Translator\Translator\obj\Release\Translator.csprojAssemblyReference.cache
+D:\easyx\Translator\Translator\obj\Release\Translator.Form1.resources
+D:\easyx\Translator\Translator\obj\Release\Translator.Properties.Resources.resources
+D:\easyx\Translator\Translator\obj\Release\Translator.csproj.GenerateResource.cache
+D:\easyx\Translator\Translator\obj\Release\Translator.csproj.CoreCompileInputs.cache
+D:\easyx\Translator\Translator\obj\Release\Translator.csproj.CopyComplete
+D:\easyx\Translator\Translator\obj\Release\Translator.exe
+D:\easyx\Translator\Translator\obj\Release\Translator.pdb
